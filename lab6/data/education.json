@@ -1,0 +1,20 @@
+[
+  {
+    "schoolName": "Community Middle School",
+    "degree": "Middle School Diploma",
+    "favoriteClass": "Pseudo Programming Class",
+    "favoriteMemory": "The most memorable thing from Middle School was my 8th grade trip where the whole grade went camping for a few days under the guise of teaching us about nature. It was pretty fun fooling around with friends."
+  },
+  {
+    "schoolName": "High School North",
+    "degree": "High School Diploma",
+    "favoriteClass": "AP Computer Science",
+    "favoriteMemory": "The most memorable thing from high school was definitely the Disney Senior Trip (funny how trips are what I remember the most from school). We were basically free to do whatever we wanted with whoever. Even though high school in general wasn't the most fun, this trip will probably stay with me for a while."
+  },
+  {
+    "schoolName": "Stevens Institute of Technology",
+    "degree": "Bachelor of Science in CS",
+    "favoriteClass": "CS546 :)",
+    "favoriteMemory": "A memorable thing from here was the class CS334 since I had no idea what was going on and it was one of the only classes I was scared I was gonna fail in. So that was fun."
+  }
+]

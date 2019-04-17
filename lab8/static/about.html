@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>People Finder</title>
+    <link type="text/css" rel="stylesheet" href="../public/site.css" />
+  </head>
+
+  <body>
+    <h1>People Finder</h1>
+    <main>
+      <p>
+        This website will find people inside a JSON document. Hopefully it
+        works.
+      </p>
+      <form action="/search" id="theform" method="POST">
+        <label for="inputId" id="labelId">Enter a person's name:</label>
+        <input type="text" id="inputId" name="personName" />
+        <button type="submit" value="Submit">Submit</button>
+      </form>
+    </main>
+  </body>
+</html>

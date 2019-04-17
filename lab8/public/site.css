@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: green;
+}
+ul {
+  color: orange;
+}
+dl {
+  color: purple;
+}
+p {
+  color: red;
+}
+label {
+  color: darkcyan;
+}

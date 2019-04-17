@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(1, 62, 70);
+}
+h1 {
+  color: blue;
+}
+li.not-prime {
+  color: #ff3d00;
+}
+li.is-prime {
+  color: #00e676;
+}
+#theform {
+  padding-bottom: 200px;
+}
+#inputId {
+  font-size: 40px;
+}
+label {
+  color: lightskyblue;
+}
+p {
+  color: lightcoral;
+}
+.error {
+  color: darkgoldenrod;
+}
+button {
+  background-color: aqua;
+}
